@@ -1,1 +1,1 @@
-# Ice-cream-image-classifier-model-train-test
+# Dataset URL : https://www.kaggle.com/datasets/tysonpo/ice-cream-dataset
